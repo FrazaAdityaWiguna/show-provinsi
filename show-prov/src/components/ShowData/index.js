@@ -9,10 +9,6 @@ export default function ShowData() {
   const kabupatenID = useSelector((state) => state.kabupatenID);
   const kecamatanID = useSelector((state) => state.kecamatanID);
 
-  useEffect(() => {
-    console.log('');
-  }, [provinsiID]);
-
   return (
     <>
       <Container className='m-4'>
