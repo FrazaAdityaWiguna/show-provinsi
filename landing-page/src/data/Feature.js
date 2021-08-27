@@ -1,0 +1,92 @@
+export const feature = [
+  {
+    id: 1,
+    title: 'Kemudahan Absensi Secara Personal dan Lebih Higienis',
+    desc: 'Kerjoo menyediakan aplikasi yang bisa diinstal di handphone (iOS atau Android) milik karyawan sehingga memudahkan absensi dari manapun dan kapanpun. Cara ini lebih higienis tanpa harus mengantri absen di mesin fingerprint yang digunakan secara bergantian.',
+    image: '/assets/images/feature/01.svg',
+  },
+  {
+    id: 2,
+    title: 'Monitor Kehadiran Karyawan di Lokasi Kerja Secara Akurat',
+    desc: 'Dengan fitur GPS maka lokasi karyawan saat melakukan absensi akan terekam secara otomatis. Fitur ini juga dilengkapi dengan fake GPS yang merupakan fitur tambahan untuk menghindari kecurangan. Informasi detail lokasi absensi karyawan dapat diakses secara real time oleh perusahaan di dashboard admin.',
+    image: '/assets/images/feature/02.svg',
+  },
+  {
+    id: 3,
+    title: 'Face Recognition dan Identification',
+    desc: 'Absensi dilakukan oleh karyawan secara selfie dari aplikasi absensi pada handphone mereka. Hal ini bisa membantu perusahaan untuk memastikan bahwa absensi dilakukan hanya oleh karyawan yang bersangkutan karena sistem aplikasi akan mengidentifikasi karyawan berdasarkan wajah yang didaftarkan oleh perusahaan sesuai nama karyawan bersangkutan.',
+    image: '/assets/images/feature/03.svg',
+  },
+  {
+    id: 4,
+    title: 'Menghemat Waktu Review Kedisiplinan Karyawan',
+    desc: 'Dengan adanya fitur statistik, ekspor file, dan ringkasan kehadiran, maka perusahaan bisa melakukan review kedisiplinan karyawan secara cepat dengan melihat data per hari, per bulan, maupun per karyawan. Perusahaan Anda tidak perlu bersusah payah mengumpulkan data dan file secara manual karena semua sudah tersedia di dasbor admin aplikasi Kerjoo.',
+    image: '/assets/images/feature/04.svg',
+  },
+  {
+    id: 5,
+    title: 'Memudahkan Membuat Jadwal Kerja Harian dan Shift',
+    desc: 'Penentuan jam kerja karyawan baik secara harian maupun shift akan sangat dimudahkan dengan adanya fitur jam kerja. Fitur ini memungkinkan perusahaan bisa dengan mudah membuat jadwal shift tiap karyawan dalam 1 divisi.',
+    image: '/assets/images/feature/05.svg',
+  },
+  {
+    id: 6,
+    title: 'Penyimpanan dan Pengelolaan Data Karyawan',
+    desc: 'Dasbor admin aplikasi absensi Kerjoo memudahkan perusahaan dalam mengumpulkan data pribadi dan dokumen karyawan dalam satu tempat. Dengan adanya database karyawan maka perusahaan lebih mudah untuk mengorganisir data dan mencari data saat membutuhkan.',
+    image: '/assets/images/feature/06.svg',
+  },
+  {
+    id: 7,
+    title: 'Fleksibilitas Pengaturan Lokasi Absensi',
+    desc: 'Perusahaan Anda memiliki banyak cabang lokasi kerja? Anda harus mengelola karyawan Work From Home (WFH) dan remote working? Anda tidak perlu cemas karena kesulitan memantau absensi kerja karyawan, karena dengan adanya fitur lokasi absensi Kerjoo ini memudahkan perusahaan dalam mengatur lokasi absensi. Anda bisa mengatur banyak spot lokasi absensi.',
+    image: '/assets/images/feature/07.svg',
+  },
+  {
+    id: 8,
+    title: 'Multi Spot Absensi Untuk Karyawan',
+    desc: 'Perusahaan bisa mengatur beberapa titik absensi untuk setiap karyawan sesuai dengan kebutuhan penempatan dan mobilitas kunjungan karyawan tersebut ke kantor cabang lain.',
+    image: '/assets/images/feature/08.svg',
+  },
+  {
+    id: 9,
+    title: 'Fleksibilitas Pengaturan Jam Kerja',
+    desc: 'Fitur Pola Kerja memberikan kemudahan bagi perusahaan yang memiliki banyak divisi dengan jam kerja yang bervariasi. Perusahaan dapat mengatur jam kerja sesuai kebutuhan agar semua jam kerja bisa terakomodasi dengan baik.',
+    image: '/assets/images/feature/09.svg',
+  },
+  {
+    id: 10,
+    title: 'Multi Absensi Dalam Sehari',
+    desc: 'Fitur ini memudahkan perusahaan dalam memantau keakuratan waktu kerja dan tempat berkegiatan karyawan yang bertugas ke tempat klien maupun bekerja secara lapangan. Karyawan dapat melakukan absensi beberapa kali sesuai jumlah kunjungan yang mereka lakukan.',
+    image: '/assets/images/feature/10.svg',
+  },
+  {
+    id: 11,
+    title: 'Keterlambatan Masuk Karyawan',
+    desc: 'Aplikasi absensi Kerjoo memberikan fitur Toleransi Keterlambatan agar bisa dimanfaatkan oleh perusahaan dalam memberikan kelonggaran kepada karyawan saat melakukan absensi. Kerjoo membantu melakukan pencatatan dan perhitungan jumlah jam keterlambatan sesuai dengan yang diperbolehkan perusahaan.',
+    image: '/assets/images/feature/11.svg',
+  },
+  {
+    id: 12,
+    title: 'Ketahui Rencana Kerja Karyawan Setiap Hari',
+    desc: 'Dengan adanya fitur Laporan Pekerjaan memungkinkan perusahaan mengetahui rencana kerja dan laporan kerja harian karyawan per hari. Selain memudahkan perusahaan dalam melakukan pengecekan, fitur ini juga membuat kinerja karyawan lebih optimal karena bisa melaporkan pekerjaan harian dan absensi dalam satu aplikasi.',
+    image: '/assets/images/feature/12.svg',
+  },
+  {
+    id: 13,
+    title: 'Rencanakan Distribusi Pekerjaan Karyawan dengan Pengelolaan Cuti Karyawan',
+    desc: 'Dengan adanya fitur pengajuan cuti karyawan, HR dan perusahaan dapat merencanakan serta melakukan pendistribusian pekerjaan kepada karyawan dengan tepat dan cepat. HR dapat melakukan penolakan ataupun menyetujui cuti yang diajukan karyawan sehingga semua pekerjaan akan dapat terselesaikan dengan pengaturan cuti yang terorganisir dan terencana.',
+    image: '/assets/images/feature/13.svg',
+  },
+  {
+    id: 14,
+    title: 'Monitoring Efektifitas Kerja Dengan Pengelolaan Izin Karyawan',
+    desc: 'HR pasti akan merasa kesulitan memantau karyawan yang melakukan izin kerja tetapi tidak ada bukti maupun catatannya. Fitur izin memungkinkan karyawan dapat mengajukan izin secara langsung dari aplikasi dengan mengupload bukti berupa file foto atau softcopy agar dapat segera diketahui oleh HR.',
+    image: '/assets/images/feature/14.svg',
+  },
+  {
+    id: 15,
+    title: 'Jumlah Karyawan Unlimited',
+    desc: 'Anda bisa menambahkan karyawan sebanyak mungkin sesuai kebutuhan. Menghemat biaya karena Anda tinggal membayarkan sesuai jumlah karyawan yang didaftarkan. Hubungi tim keren Kerjoo apabila Anda ingin menambahkan karyawan.',
+    image: '/assets/images/feature/15.svg',
+  },
+];

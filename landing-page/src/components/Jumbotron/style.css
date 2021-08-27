@@ -1,0 +1,11 @@
+.jumbotron {
+  background-image: url('../../assets/bg/office.jpg');
+  color: #fff;
+  box-shadow: inset 0px 0px 0 2000px rgba(0, 0, 0, 0.5);
+  height: 100vh;
+  border-radius: 0;
+}
+
+.jumbotron img {
+  width: 200px;
+}

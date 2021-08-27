@@ -1,0 +1,13 @@
+.card-feature img {
+  width: 200px;
+}
+
+.card-feature .card {
+  min-height: 480px;
+  transition: all 0.5s ease;
+}
+
+.card-feature .card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
